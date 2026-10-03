@@ -1,4 +1,5 @@
 # Database Review
+This repository is part of my review of database system concepts. I completed this course during my undergraduate studies, and I am now revisiting its core concepts and applying them to a real-world problem as a way to reinforce my knowledge through practical experience.
 
 Reviewing database design fundamentals: going from a written problem specification to a conceptual model (Entity-Relationship Diagram), then to a relational schema and, finally, SQL code.
 
