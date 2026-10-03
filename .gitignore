@@ -1,0 +1,6 @@
+# Office temporary lock files
+~$*
+
+# draw.io backups
+*.drawio.bkp
+*.drawio.dtmp
